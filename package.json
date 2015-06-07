@@ -1,0 +1,27 @@
+{
+  "name": "w-json",
+  "version": "1.0.0",
+  "description": "A little module to write JSON files.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:IonicaBizau/node-w-json.git"
+  },
+  "keywords": [
+    "write",
+    "json",
+    "files"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com>",
+  "license": "KINDLY",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/node-w-json/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/node-w-json"
+}

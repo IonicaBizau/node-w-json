@@ -1,7 +1,7 @@
 {
   "name": "w-json",
   "version": "1.0.0",
-  "description": "A little module to write JSON files.",
+  "description": "A small module to write JSON files.",
   "main": "lib/index.js",
   "directories": {
     "example": "example"

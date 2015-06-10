@@ -15,7 +15,7 @@
 
 # w-json [![Donate now][donate-now]][paypal-donations]
 
-A little module to write JSON files.
+A small module to write JSON files.
 
 If you want to read JSON files, check out [`r-json`](https://github.com/IonicaBizau/node-r-json).
 

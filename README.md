@@ -39,17 +39,26 @@ WriteJson(__dirname + "/test.json", { "hello": "world" }, function (err, data) {
 // Write the same file synchronously
 WriteJson(__dirname + "/test.json", { "hello": "mars" });
 
+// 4 space indent and new line at the end
+WriteJson(__dirname + "/test.json", { "hello": "mars" }, {
+    new_line: true
+  , space: 4
+});
+
 ```
 
 ## Documentation
 
-### `wJson(path, data, space, callback)`
+### `wJson(path, data, options, callback)`
 Writes a JSON file.
 
 #### Params
 - **String** `path`: The JSON file path.
 - **Object** `data`: The JSON data to write in the provided file.
-- **Number** `space`: An optional space value for beautifying the json output (default: `2`)
+- **Object|Number|Boolean** `options`: An object containing the fields below. If boolean, it will be handled as `new_line`, if number it will be handled as `space`.
+
+ - `space` (Number): An optional space value for beautifying the json output (default: `2`).
+ - `new_line` (Boolean): If `true`, a new line character will be added at the end of the stringified content.
 - **Function** `callback`: An optional callback. If not passed, the function will run in sync mode.
 
 ## How to contribute

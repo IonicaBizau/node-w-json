@@ -7,7 +7,7 @@ If you want to read JSON files, check out [`r-json`](https://github.com/IonicaBi
 ## Installation
 
 ```sh
-$ npm i w-json
+$ npm i --save w-json
 ```
 
 ## Example
@@ -59,19 +59,22 @@ If you are using this library in one of your projects, add it in this list. :spa
 
  - [`cdnjs-importer`](https://github.com/cdnjs/cdnjs-importer)
 
+ - [`engine-composition-crud`](https://github.com/IonicaBizau/engine-composition-crud#readme) by jillix
+
+ - [`engine-parser`](https://github.com/IonicaBizau/engine-parser) by jillix
+
  - [`engine-tools`](https://github.com/jillix/engine-tools) by jillix
 
  - [`git-stats`](https://github.com/IonicaBizau/git-stats)
 
 ## License
 
-[KINDLY][license] © [Ionică Bizău][website]
+[MIT][license] © [Ionică Bizău][website]
 
-[license]: http://ionicabizau.github.io/kindly-license/?author=Ionic%C4%83%20Biz%C4%83u%20%3Cbizauionica@gmail.com%3E&year=2015
-
-[website]: http://ionicabizau.net
 [paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVXDDLKKLQRJW
 [donate-now]: http://i.imgur.com/6cMbHOC.png
 
+[license]: http://showalicense.com/?fullname=Ionic%C4%83%20Biz%C4%83u%20%3Cbizauionica%40gmail.com%3E%20(http%3A%2F%2Fionicabizau.net)&year=2015#license-mit
+[website]: http://ionicabizau.net
 [contributing]: /CONTRIBUTING.md
 [docs]: /DOCUMENTATION.md

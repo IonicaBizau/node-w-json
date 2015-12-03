@@ -1,6 +1,6 @@
 {
   "name": "w-json",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "A small module to write JSON files.",
   "main": "lib/index.js",
   "directories": {
@@ -18,8 +18,8 @@
     "json",
     "files"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com>",
-  "license": "KINDLY",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/node-w-json/issues"
   },

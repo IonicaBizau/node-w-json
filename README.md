@@ -1,6 +1,6 @@
-# w-json [![Support this project][donate-now]][paypal-donations]
+# w-json [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/w-json.svg)](https://www.npmjs.com/package/w-json) [![Downloads](https://img.shields.io/npm/dt/w-json.svg)](https://www.npmjs.com/package/w-json) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-A small module to write JSON files.
+> A small module to write JSON files.
 
 If you want to read JSON files, check out [`r-json`](https://github.com/IonicaBizau/node-r-json).
 
@@ -66,6 +66,10 @@ If you are using this library in one of your projects, add it in this list. :spa
  - [`engine-tools`](https://github.com/jillix/engine-tools) by jillix
 
  - [`git-stats`](https://github.com/IonicaBizau/git-stats)
+
+ - [`idea`](https://github.com/IonicaBizau/idea)
+
+ - [`web-term`](https://github.com/IonicaBizau/web-term)
 
 ## License
 
